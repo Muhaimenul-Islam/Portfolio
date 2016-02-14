@@ -1,0 +1,64 @@
+.main-title h1{
+	text-transform:uppercase;
+	text-align:center;
+	color:hsl(0, 0%, 41%);
+	font-size: 250%;
+	text-decoration: underline;
+}
+
+body {
+    background-color: lightblue;
+	font-family:"Arial Black", Gadget, sans-serif;
+	text-align:center;
+}
+.middle{
+	text-align:center;
+}
+.education, .course, .exp{
+	display:table;
+}
+th {
+	display:table-cell;
+	width:200px;
+	text-align:center;
+}
+tr{
+	display:block;
+}
+
+thead {
+	width:100%;
+	align:center;
+	text-align:center;
+	background:hsl(214, 41%, 78%);
+	color:#000fff;
+}
+tbody{
+	width:100%;
+}
+td {
+	display:table-cell;
+	width:200px;
+}
+.list li{
+	background:hsl(54, 100%, 90%);
+}
+.act li{
+		background:#BC8F8F;
+}
+.main-title2 h1{
+	text-transform:uppercase;
+	text-align:center;
+	color:hsl(0, 0%, 41%);
+	font-size: 200%;
+	text-decoration: underline;
+}
+.name h2{
+	text-align:center;
+	color:hsl(0, 42%, 41%);
+	font-size: 280%;
+	font-family:Papyrus, fantasy;
+}
+
+
+
